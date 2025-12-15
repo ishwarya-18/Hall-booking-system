@@ -79,7 +79,7 @@ GEMINI_API_KEY=<google-gemini-api-key>
 ## Deployment
 
 ### Frontend
-Deployed via Lovable platform at: https://hall-booking-system-a3k3.onrender.com
+Deployed on render at: https://hall-booking-system-a3k3.onrender.com
 
 ### Backend
 Deployed on Render at: https://hall-booking-backend-q55e.onrender.com
@@ -121,5 +121,6 @@ See `backend/README.md` for detailed backend deployment instructions.
 - Each booking requires hall selection, date, time slots, and purpose
 
 ## License
+
 
 This project is developed for Bannari Amman Institute of Technology.
